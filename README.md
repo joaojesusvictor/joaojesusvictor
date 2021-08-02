@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João 😎
 
-- 🔭 Hoje estou estudando com foco para front-end
-- 🌱 Estou estudando como foco em JavaScript
+- 🔭 Hoje estou focando em front-end
+- 🌱 E estudando JavaScript
 - 😄 Pronouns: ele/dele
 
 <div>
