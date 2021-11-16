@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João 😎
 
-- 🔭 Hoje estou focando em front-end
-- 🌱 E estudando JavaScript
+- 🔭 Hoje estou focando no Back-End
+- 🌱 Estudando JavaScript e C#
 - 😄 Pronouns: ele/dele
 
 <div>
