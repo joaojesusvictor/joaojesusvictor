@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estou focando no Back-End
 - 🌱 Estudando JavaScript e C#
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/joaojesusvictor">
@@ -15,7 +14,7 @@
   <img align="right" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Joao-Views" height="30" width="100" src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="SEUUSUARIO" />
+  <img align="right" alt="Joao-Views" height="30" width="100" src="https://komarev.com/ghpvc/?username=joaojesusvictor&color=green" alt="joaojesusvictor" />
 </div>
   
  <div>
