@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João 😎
 
 - 🔭 Hoje estou focando no Back-End
-- 🌱 Estudando JavaScript e C#
+- 🌱 Estudando e Trabalhando com JavaScript e C#
 
 <div>
   <a href="https://github.com/joaojesusvictor">
