@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João 😎
 
-- 🔭 Hoje estou focando no Back-End
+- 🔭 Dev Full-Stack
 - 🌱 Trabalhando com C# e JavaScript
 
 <div>
