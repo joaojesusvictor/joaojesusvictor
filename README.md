@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João 😎
 
 - 🔭 Dev Full-Stack
-- 🌱 Trabalhando com C# e JavaScript
+- 🌱 Back-End em C#
 
 <div>
   <a href="https://github.com/joaojesusvictor">
