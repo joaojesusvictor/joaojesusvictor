@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João 😎
 
-- 🔭 Dev Full-Stack
+- 🔭 Dev .Net
 - 🌱 Back-End em C#
 
 <div>
